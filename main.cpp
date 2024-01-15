@@ -2,6 +2,7 @@
 #include <cstring>
 #include <unistd.h>
 #include <arpa/inet.h>
+#include <sys/socket.h>
 
 int main() {
     // Crear un socket
